@@ -1,0 +1,3 @@
+/home/logandev/Classwork/Lab_4_15/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/home/logandev/Classwork/Lab_4_15/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/home/logandev/Classwork/Lab_4_15/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
